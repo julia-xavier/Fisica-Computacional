@@ -2,8 +2,6 @@
 
 O presente projeto tem como objetivo determinante, a elaboração de um aparato experimental para o estudo da Cinemática, cujo público alvo é professores de Física do ensino médio. O intuito é que esta ferramenta seja implementada nas aulas como um recurso didático, tendo em vista a relevância do contato com o método científico no contexto educacional. 
 
-O experimento deve ser acompanhado de um roteiro de atividades, que pode ser acessado clicando [neste link]().
-
 ## Desenvolvimento
 
 Para realizar a implementação do projeto, são necessários os seguintes materiais:
@@ -133,5 +131,9 @@ Talvez seja necessário configurar a porta de saída e placa escolhida, o que po
 Após realizar o upload, deve-se abrir o monitor serial para visualizar os dados coletados.
 
 O aparato pode ser utilizado para inúmeros experimentos de cinemática, segue abaixo um exemplo utilizando um plano inclinado:
+ 
+ ----- video -----
 
-Além disso, foi desenvolvida uma simulação interativa em python para ampliar o estudo deste problema em específico. Acesse a simulação através [deste link]() e clique [aqui]() para acessar sua documentação.
+O experimento deve ser acompanhado de um roteiro de atividades, que pode ser acessado clicando [neste link]().
+
+Além disso, foi desenvolvida uma simulação interativa em python para ampliar o estudo deste problema em específico. Acesse a simulação através [deste link](https://www.glowscript.org/#/user/flavio/folder/MyPrograms/program/julia) e clique [aqui](https://github.com/FlavCostaP/icf) para acessar sua documentação.
