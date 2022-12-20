@@ -112,9 +112,9 @@ void loop(){
     Serial.print("Segundo intervalo (ms) = ");
     Serial.println(interTempoDOIS);
     Serial.print("Velocidade Aproximada (em m/s) no sensor 2 V0 = ");
-    Serial.println(velocidadeUM); // imprime no monitor serial o a velocidade entre sensor 1 e 2
+    Serial.println(velocidadeUM/10); // imprime no monitor serial o a velocidade entre sensor 1 e 2
     Serial.print("Velocidade Aproximada (em m/s) no sensor 3 V = ");
-    Serial.println(velocidadeDOIS); // imprime no monitor serial o a velocidade entre sensor 2 e 3
+    Serial.println(velocidadeDOIS/10); // imprime no monitor serial o a velocidade entre sensor 2 e 3
     Serial.println("___________________");
 
     delay(tempoTotal); //tempo de espera para efetuar nova leitura
@@ -132,8 +132,13 @@ Após realizar o upload, deve-se abrir o monitor serial para visualizar os dados
 
 O aparato pode ser utilizado para inúmeros experimentos de cinemática, segue abaixo um exemplo utilizando um plano inclinado:
  
- ----- video -----
+ ![image](https://user-images.githubusercontent.com/44876330/208676222-ae60e7ab-2fb6-4643-9b5d-924a1fbf2215.png)
+ https://user-images.githubusercontent.com/44876330/208676190-8e7fb073-e050-4e73-bc49-82493f7f008b.mp4
 
-O experimento deve ser acompanhado de um roteiro de atividades, que pode ser acessado clicando [neste link]().
+O experimento deve ser acompanhado de um roteiro de atividades, que pode ser acessado clicando [neste link](https://www.overleaf.com/read/pnnxdcrfbmkn).
 
 Além disso, foi desenvolvida uma simulação interativa em python para ampliar o estudo deste problema em específico. Acesse a simulação através [deste link](https://www.glowscript.org/#/user/flavio/folder/MyPrograms/program/julia) e clique [aqui](https://github.com/FlavCostaP/icf) para acessar sua documentação.
+
+
+
+
