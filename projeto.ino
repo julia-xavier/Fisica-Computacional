@@ -77,9 +77,9 @@ void loop(){
     Serial.print("Segundo intervalo (ms) = ");
     Serial.println(interTempoDOIS);
     Serial.print("Velocidade Aproximada (em m/s) no sensor 2 V0 = ");
-    Serial.println(velocidadeUM); // imprime no monitor serial o a velocidade entre sensor 1 e 2
+    Serial.println(velocidadeUM/10); // imprime no monitor serial o a velocidade entre sensor 1 e 2
     Serial.print("Velocidade Aproximada (em m/s) no sensor 3 V = ");
-    Serial.println(velocidadeDOIS); // imprime no monitor serial o a velocidade entre sensor 2 e 3
+    Serial.println(velocidadeDOIS/10); // imprime no monitor serial o a velocidade entre sensor 2 e 3
     Serial.println("___________________");
 
     delay(tempoTotal); //tempo de espera para efetuar nova leitura
