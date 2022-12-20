@@ -133,7 +133,8 @@ Após realizar o upload, deve-se abrir o monitor serial para visualizar os dados
 O aparato pode ser utilizado para inúmeros experimentos de cinemática, segue abaixo um exemplo utilizando um plano inclinado:
  
  ![image](https://user-images.githubusercontent.com/44876330/208676222-ae60e7ab-2fb6-4643-9b5d-924a1fbf2215.png)
- https://user-images.githubusercontent.com/44876330/208676190-8e7fb073-e050-4e73-bc49-82493f7f008b.mp4
+ 
+ [Acesse o vídeo](https://user-images.githubusercontent.com/44876330/208676190-8e7fb073-e050-4e73-bc49-82493f7f008b.mp4)
 
 O experimento deve ser acompanhado de um roteiro de atividades, que pode ser acessado clicando [neste link](https://www.overleaf.com/read/pnnxdcrfbmkn).
 
